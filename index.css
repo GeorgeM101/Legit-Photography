@@ -5,12 +5,12 @@ body{
     background-color: black;
     color: rgba(255, 255, 255, 0.753);
     text-transform: uppercase;
-    text-align: center;
+    text-align: left;
     justify-content: center;
 }
-.main img{
-align-items: center;
-text-align: center;
+
+.semi{
+    text-align: left;
 }
 .link-page{
     background-color: black;
@@ -45,22 +45,14 @@ header{
         text-align: center;
         font-size: 3.0em;
 
-
-
     }
-            body ul li {
-            display: block;
-            font-size: x-large;
+           
+    body ul li {
+        display: block;
+        font-size: x-large
+         }
           
-    }
-    .features figure{
-        margin: 20px;
-        text-align:center;
-        width: 70px;
-        border: 1px  solid rgb(133, 75, 75);
-    }
-
-   
+  
 .services{
     color:black;
     padding: 10px;

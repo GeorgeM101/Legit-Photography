@@ -31,13 +31,20 @@ header{
     text-transform: uppercase;
     font-family:'Courier New', Courier, monospace;
     font-size: 30px;
-    padding: 20px 80px;
+    padding: 10px 50px;
     height:600px
 
     }
     h2{
         text-transform: uppercase;
-        color:lavender
+        color: whitesmoke;
+        font-weight: 900;
+        font-family: fantasy;
+        background-color: black;
+        padding:20px 70px;
+        text-align: center;
+        font-size: 3.0em;
+
 
 
     }
@@ -53,16 +60,7 @@ header{
         border: 1px  solid rgb(133, 75, 75);
     }
 
-    .features figure  {
-       display:inline-block;
-
-    }
-   .features figure img{
-       max-width: 400px;
-       height: auto;
-       margin:  ;
-       border-radius:30px;
-   }
+   
 .services{
     color:black;
     padding: 10px;
@@ -80,7 +78,8 @@ img{
 #serve{
     font-size: 1.5em;
     text-transform:uppercase ;
-    color:cornflowerblue ;
+    color:white ;
+    font-size: 3.0em;
 
 }
 

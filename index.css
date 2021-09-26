@@ -71,7 +71,8 @@ img{
     width: Auto;
 }
 
-h3{
+#serve{
+    font-size: 1.5em;
     text-transform:uppercase ;
     color:cornflowerblue ;
 
@@ -97,4 +98,7 @@ footer{
 .contacts{
 color: white; 
 font-size: 1.5em;   
+}
+.cont-header{
+    font-size: 1.0em;
 }

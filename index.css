@@ -1,0 +1,88 @@
+.main{
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    
+}
+    
+}
+.link-page{
+    padding:10px 300px;
+    text-align: center;
+    margin-top:120px;
+    margin-bottom: 120px;
+
+}
+header{
+    background-color:black;
+    background-image: url("/lens.jpg");
+    background-size:100%;
+    color:rgb(226, 159, 159);
+    background-repeat: no-repeat;
+    text-align: right;
+    text-transform: uppercase;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    padding: 20px 80px;
+    height:300px
+
+    }
+        body ul li {
+            background-color:pink;
+            display: inline-block;
+            text-align: start;
+            font-size: 1.5rem;
+            list-style:disc;
+            text-decoration: none;
+            text-transform: uppercase;
+            padding: 0px 15px;
+    }
+    .features figure{
+        margin: 20px;
+        text-align:center;
+        width: 70px;
+        border: 1px  solid rgb(133, 75, 75);
+    }
+   .features figure img{
+       display:inline;
+       width: 300px;
+       height: auto;
+       margin:  auto;
+       border-radius:30px;
+   }
+.services{
+    color:black;
+    padding: 10px;
+    margin: 10px;
+}
+img{
+    height: 400px;
+    width: Auto;
+}
+
+h3{
+    text-transform:uppercase ;
+    color: blue ;
+
+}
+
+.services{
+    font-family: 'Courier New', Courier, monospace;
+    margin:20px;
+
+
+}
+footer{
+    background-color: black;
+    color:white;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    margin: 30px;
+    padding: 0x;
+    width:900px;
+    height:200px;
+
+}
+.contacts{
+font-color:blue;    
+}

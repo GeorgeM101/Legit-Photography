@@ -1,7 +1,5 @@
 # GS Photography
-Photo company marketng their services 
-showcasing images 
-Showing different services offered
+A photo company offering high quality photography services.
 # AUTHOR
 George Mboya
 
